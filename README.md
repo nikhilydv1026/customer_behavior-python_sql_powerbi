@@ -37,6 +37,8 @@ Top 3 products in each category
 
 Revenue by age group
 
+About me
+
 I’m Nikhil, a passionate Data Analyst Fresher skilled in:
 
 🐍 Python (Pandas, NumPy, Seaborn, Matplotlib)
